@@ -3,7 +3,7 @@
 	require 'config.php';
 	
 	dol_include_once('/societe/class/societe.class.php');
-	dol_include_once('/kiwi/class/kiwi.class.php');
+	dol_include_once('/sprietn/class/sprietn.class.php');
 	dol_include_once('/core/lib/company.lib.php');
 	
 	

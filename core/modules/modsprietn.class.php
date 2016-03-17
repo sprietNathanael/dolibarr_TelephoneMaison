@@ -137,7 +137,7 @@ class modsprietn extends DolibarrModules
 		// 'thirdparty'       to add a tab in third party view
 		// 'user'             to add a tab in user view
         $this->tabs = array(
-        	'thirdparty:+gesttel:Title1:sprietn@sprietn::/sprietn/sprietn.php?id=__ID__'
+        	'thirdparty:+gesttel:téléphone maison!:sprietn@sprietn::/sprietn/sprietn.php?id=__ID__'
         );
 
         // Dictionaries
